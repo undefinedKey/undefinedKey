@@ -1,4 +1,4 @@
-Blog：<a href="https://progweb.top" align="center">https://progweb.top</a>
+Blog：<a href="https://progweb.top/blog" align="center">https://progweb.top/blog</a>
 Email：<a href="mailto:progweb1024@gmail.com" align="center">progweb1024@gmail.com</a>
 
 Languages : JavaScript，Java，TypeScript
