@@ -1,7 +1,7 @@
 Blog：<a href="https://progweb.top/blog" align="center">https://progweb.top/blog</a> </br>
 Email：<a href="mailto:progweb1024@gmail.com" align="center">progweb1024@gmail.com</a>
 
-Languages : JavaScript，Java，TypeScript
+Languages : JavaScript，Java，TypeScript，Go
 
 Environment:
 <p>
